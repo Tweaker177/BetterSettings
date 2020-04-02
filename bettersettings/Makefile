@@ -1,3 +1,5 @@
+ARCHS = arm64 arm64e
+TARGET = iphone:clang:11.2:11.0
 include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = BetterSettings
