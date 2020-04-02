@@ -1,4 +1,4 @@
-#import <CSPrefs/libCSPreferences.h>
+#import <CSPreferences/libCSPreferences.h>
 
 @interface BSPPreferenceController : CSPListController
 @end
