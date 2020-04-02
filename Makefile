@@ -1,3 +1,7 @@
+ARCHS = arm64 arm64e
+TARGET = iphone:clang:11.2:11.0
+GO_EASY_ON_ME = 1
+
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = rewriteSettings
